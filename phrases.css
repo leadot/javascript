@@ -1,0 +1,49 @@
+body {
+  padding:5em;
+}
+
+
+
+.randomPhrase {
+  font-family: Arial;
+  font-style: italic;
+  text-align: center;
+  color:white;
+
+}
+
+#btn-quote {
+  background-color: black;
+  height: 100px;
+  width:200px;
+  font-family: Arial;
+  font-style: bold;
+  text-align: center;
+  font-size: 18px;
+  border: 2px solid lightgrey;
+}
+
+p {
+  margin-top: 20px;
+  padding-top: 5em;
+  padding-left: 40px;
+  padding-right: 40px;
+  height: 200px;
+  font-size: 14px;
+  color: black;
+
+}
+
+section {
+  height:100px;
+  width: 200px;
+}
+
+
+ul  {
+  height:100px;
+  width: 200px;
+  text-align: left;
+
+  font-size: 12px;
+}
